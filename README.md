@@ -7,3 +7,10 @@ Steps to configure this project on your local machine
     Command :- npm install
 4) Run the command below to start the server
    Command :- npm run dev or npm run start
+
+The node.js + express.js server and Postgresql database is hosted on render.
+
+Postman Documentation Link:
+https://documenter.getpostman.com/view/20443692/2sA3QqhZ5n
+
+
